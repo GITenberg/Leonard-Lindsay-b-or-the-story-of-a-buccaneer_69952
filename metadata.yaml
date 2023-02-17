@@ -1,0 +1,30 @@
+_repo: Leonard-Lindsay-b-or-the-story-of-a-buccaneer_69952
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reach, Angus B. (Angus Bethune)
+    alias: Reach, Angus Bethune
+    birthdate: 1821
+    deathdate: 1856
+    gutenberg_agent_id: '42434'
+    url: http://www.gutenberg.org/2009/agents/42434
+description: ''
+gutenberg_issued: '2023-02-04'
+identifiers:
+  gutenberg: '69952'
+language: en
+pgterms:marc904: https://archive.org/details/leonardlindsayor0000reac/page/n5/mode/2up
+pgterms:marc905: 20200512030631reach
+pgterms:marc906: '1877'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bGeorge Routledge & Sons, $c1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Leonard Lindsay : $b or, the story of a buccaneer'
+url: http://www.gutenberg.org/ebooks/69952
