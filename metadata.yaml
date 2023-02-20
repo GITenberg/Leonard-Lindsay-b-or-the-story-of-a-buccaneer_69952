@@ -1,5 +1,8 @@
 _repo: Leonard-Lindsay-b-or-the-story-of-a-buccaneer_69952
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69952-h/images/cover.jpg
 creator:
   author:
     agent_name: Reach, Angus B. (Angus Bethune)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '42434'
     url: http://www.gutenberg.org/2009/agents/42434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69952#Leonard-Lindsay-b-or-the-story-of-a-buccaneer
 gutenberg_issued: '2023-02-04'
 identifiers:
   gutenberg: '69952'
